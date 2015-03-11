@@ -7,3 +7,4 @@
 * [Wall Maze Solver](https://satkum.wordpress.com/category/maze-solving-robot-using-arduino/)
 * [Wall Maze Solving Algorithm](https://mmalsubaie.files.wordpress.com/2013/08/mohamed-alsubaie-final-report-final.pdf)
 * [Raspberry Pi Headless and SSH via UBuntu](https://lawrencematthew.wordpress.com/2013/08/03/headless-use-of-raspberry-pi-on-windows-ubuntu/)
+* [Rpi Headless in windows](http://darmawan-salihun.blogspot.com/2012/12/headless-raspberry-pi-with-windows-7.html)
