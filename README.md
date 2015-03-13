@@ -8,3 +8,4 @@
 * [Wall Maze Solving Algorithm](https://mmalsubaie.files.wordpress.com/2013/08/mohamed-alsubaie-final-report-final.pdf)
 * [Raspberry Pi Headless and SSH via UBuntu](https://lawrencematthew.wordpress.com/2013/08/03/headless-use-of-raspberry-pi-on-windows-ubuntu/)
 * [Rpi Headless in windows](http://darmawan-salihun.blogspot.com/2012/12/headless-raspberry-pi-with-windows-7.html)
+* [JavaFX](http://www.zenjava.com/series/building-jee-applications-in-javafx-2-0/)
